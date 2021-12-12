@@ -33,6 +33,7 @@ Berisi API untuk kebutuhan Whatsapp bot
 | Jarx Api | Fajar | [Link](https://api.jarx.me) | `Aktif` | API collection | `APIKEY` |
 | Zeeone Api | zeeone | [Link](https://api-zeeoneofc.herokuapp.com) | `Aktif` | API collection | `APIKEY` |
 | Nurutomo Api | Nurutomo | [Link](https://nurutomo.herokuapp.com) | `Aktif` | API collection | Tidak |
+| Erdwpe Api | Erdwpe | [Link](https://erdwpe-api.herokuapp.com) | `Aktif` | API collection | Tidak |
 
 ## :fire: Tambahan
 
